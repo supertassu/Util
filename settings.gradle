@@ -1,0 +1,5 @@
+rootProject.name = 'util-parent'
+
+include 'core'
+include 'config'
+include 'spigot'

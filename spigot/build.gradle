@@ -1,0 +1,7 @@
+dependencies {
+    compile project(':core')
+    compileOnly 'org.spigotmc:spigot-api:1.13.1-R0.1-SNAPSHOT'
+
+    compile group: 'com.google.inject', name: 'guice', version: '4.2.1'
+    compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.25'
+}
